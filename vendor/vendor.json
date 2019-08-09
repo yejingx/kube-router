@@ -1,0 +1,14 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "86C7GR7pz6zYdCCZ0SQHHuW6AAM=",
+			"origin": "github.com/cloudnativelabs/kube-router/vendor/github.com/coreos/go-iptables/iptables",
+			"path": "github.com/coreos/go-iptables/iptables",
+			"revision": "969b135e941d8baadca0a40047a38d6aca381855",
+			"revisionTime": "2019-07-24T15:17:50Z"
+		}
+	],
+	"rootPath": "github.com/cloudnativelabs/kube-router"
+}
